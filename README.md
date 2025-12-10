@@ -1,12 +1,5 @@
-#!/usr/bin/env bash
-# create_readme.sh
-# Creates README.md for the Smart Nutrition project
 
-set -euo pipefail
 
-README_FILE="README.md"
-
-cat > "$README_FILE" <<'README'
 # 🥗 Smart Nutrition – AI-Powered Food Recognition App
 
 Smart Nutrition is an AI-driven nutrition analysis application built with **React** and **Firebase**.  

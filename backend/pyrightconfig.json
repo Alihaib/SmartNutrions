@@ -1,0 +1,17 @@
+{
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": false,
+  "typeCheckingMode": "basic",
+  "exclude": [
+    "**/venv",
+    "**/__pycache__"
+  ]
+}
+
+
+
+
+
+
+
+
